@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- OPTIMIZADO POR The Spring -->
+<TextureAtlas imagePath="COUNTDOWN">
+    <SubTexture name="count10000" x="0" y="0" width="177" height="228" frameWidth="354" frameHeight="413" frameX="-80" frameY="-88"/>
+    <SubTexture name="count10001" x="178" y="0" width="177" height="202" frameWidth="354" frameHeight="413" frameX="-80" frameY="-101"/>
+    <SubTexture name="count10002" x="356" y="0" width="354" height="394" frameWidth="354" frameHeight="413" frameX="0" frameY="-12"/>
+    <SubTexture name="count10003" x="711" y="0" width="354" height="394" frameWidth="354" frameHeight="413" frameX="0" frameY="-12"/>
+    <SubTexture name="count10004" x="1066" y="0" width="336" height="413" frameWidth="354" frameHeight="413" frameX="-17" frameY="0"/>
+    <SubTexture name="count10005" x="1066" y="0" width="336" height="413" frameWidth="354" frameHeight="413" frameX="-17" frameY="0"/>
+    <SubTexture name="count10006" x="1403" y="0" width="311" height="384" frameWidth="354" frameHeight="413" frameX="-29" frameY="-15"/>
+    <SubTexture name="count10007" x="0" y="423" width="291" height="307" frameWidth="354" frameHeight="413" frameX="-37" frameY="-63"/>
+    <SubTexture name="count10008" x="0" y="423" width="291" height="307" frameWidth="354" frameHeight="413" frameX="-37" frameY="-63"/>
+    <SubTexture name="count10009" x="0" y="423" width="291" height="307" frameWidth="354" frameHeight="413" frameX="-37" frameY="-63"/>
+    <SubTexture name="count20000" x="292" y="423" width="182" height="187" frameWidth="332" frameHeight="392" frameX="-79" frameY="-93"/>
+    <SubTexture name="count20001" x="475" y="423" width="173" height="187" frameWidth="332" frameHeight="392" frameX="-88" frameY="-93"/>
+    <SubTexture name="count20002" x="649" y="423" width="332" height="376" frameWidth="332" frameHeight="392" frameX="0" frameY="-10"/>
+    <SubTexture name="count20003" x="982" y="423" width="332" height="376" frameWidth="332" frameHeight="392" frameX="0" frameY="-10"/>
+    <SubTexture name="count20004" x="1315" y="423" width="300" height="392" frameWidth="332" frameHeight="392" frameX="-14" frameY="0"/>
+    <SubTexture name="count20005" x="1315" y="423" width="300" height="392" frameWidth="332" frameHeight="392" frameX="-14" frameY="0"/>
+    <SubTexture name="count20006" x="0" y="825" width="289" height="362" frameWidth="332" frameHeight="392" frameX="-27" frameY="-16"/>
+    <SubTexture name="count20007" x="290" y="825" width="286" height="285" frameWidth="332" frameHeight="392" frameX="-30" frameY="-52"/>
+    <SubTexture name="count20008" x="290" y="825" width="286" height="285" frameWidth="332" frameHeight="392" frameX="-30" frameY="-52"/>
+    <SubTexture name="count20009" x="290" y="825" width="286" height="285" frameWidth="332" frameHeight="392" frameX="-30" frameY="-52"/>
+    <SubTexture name="count30000" x="577" y="825" width="187" height="170" frameWidth="396" frameHeight="335" frameX="-88" frameY="-70"/>
+    <SubTexture name="count30001" x="765" y="825" width="187" height="170" frameWidth="396" frameHeight="335" frameX="-88" frameY="-70"/>
+    <SubTexture name="count30002" x="953" y="825" width="380" height="335" frameWidth="396" frameHeight="335" frameX="-10" frameY="0"/>
+    <SubTexture name="count30003" x="1334" y="825" width="380" height="335" frameWidth="396" frameHeight="335" frameX="-10" frameY="0"/>
+    <SubTexture name="count30004" x="0" y="1197" width="396" height="287" frameWidth="396" frameHeight="335" frameX="0" frameY="-18"/>
+    <SubTexture name="count30005" x="0" y="1197" width="396" height="287" frameWidth="396" frameHeight="335" frameX="0" frameY="-18"/>
+    <SubTexture name="count30006" x="397" y="1197" width="365" height="289" frameWidth="396" frameHeight="335" frameX="-17" frameY="-16"/>
+    <SubTexture name="count30007" x="763" y="1197" width="286" height="289" frameWidth="396" frameHeight="335" frameX="-43" frameY="-16"/>
+    <SubTexture name="count30008" x="763" y="1197" width="286" height="289" frameWidth="396" frameHeight="335" frameX="-43" frameY="-16"/>
+    <SubTexture name="count30009" x="763" y="1197" width="286" height="289" frameWidth="396" frameHeight="335" frameX="-43" frameY="-16"/>
+    <SubTexture name="countgo0000" x="1050" y="1197" width="264" height="180" frameWidth="397" frameHeight="336" frameX="-88" frameY="-86"/>
+    <SubTexture name="countgo0001" x="1315" y="1197" width="242" height="172" frameWidth="397" frameHeight="336" frameX="-99" frameY="-94"/>
+    <SubTexture name="countgo0002" x="0" y="1496" width="381" height="336" frameWidth="397" frameHeight="336" frameX="-6" frameY="0"/>
+    <SubTexture name="countgo0003" x="382" y="1496" width="381" height="336" frameWidth="397" frameHeight="336" frameX="-6" frameY="0"/>
+    <SubTexture name="countgo0004" x="764" y="1496" width="397" height="287" frameWidth="397" frameHeight="336" frameX="0" frameY="-31"/>
+    <SubTexture name="countgo0005" x="764" y="1496" width="397" height="287" frameWidth="397" frameHeight="336" frameX="0" frameY="-31"/>
+    <SubTexture name="countgo0006" x="1162" y="1496" width="366" height="290" frameWidth="397" frameHeight="336" frameX="-15" frameY="-30"/>
+    <SubTexture name="countgo0007" x="1529" y="1496" width="287" height="290" frameWidth="397" frameHeight="336" frameX="-75" frameY="-30"/>
+    <SubTexture name="countgo0008" x="1529" y="1496" width="287" height="290" frameWidth="397" frameHeight="336" frameX="-75" frameY="-30"/>
+    <SubTexture name="countgo0009" x="1529" y="1496" width="287" height="290" frameWidth="397" frameHeight="336" frameX="-75" frameY="-30"/>
+</TextureAtlas>

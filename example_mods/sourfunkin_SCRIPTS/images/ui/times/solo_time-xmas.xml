@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- OPTIMIZADO POR The Spring -->
+<TextureAtlas imagePath="solo_time-xmas">
+    <SubTexture name="solo_time_eng0000" x="0" y="0" width="91" height="89" frameWidth="503" frameHeight="324" frameX="-105" frameY="-102"/>
+    <SubTexture name="solo_time_eng0001" x="92" y="0" width="157" height="138" frameWidth="503" frameHeight="324" frameX="-77" frameY="-61"/>
+    <SubTexture name="solo_time_eng0002" x="250" y="0" width="207" height="139" frameWidth="503" frameHeight="324" frameX="-77" frameY="-60"/>
+    <SubTexture name="solo_time_eng0003" x="458" y="0" width="281" height="164" frameWidth="503" frameHeight="324" frameX="-77" frameY="-34"/>
+    <SubTexture name="solo_time_eng0004" x="740" y="0" width="290" height="229" frameWidth="503" frameHeight="324" frameX="-77" frameY="-32"/>
+    <SubTexture name="solo_time_eng0005" x="1031" y="0" width="289" height="238" frameWidth="503" frameHeight="324" frameX="-77" frameY="-32"/>
+    <SubTexture name="solo_time_eng0006" x="0" y="248" width="432" height="270" frameWidth="503" frameHeight="324" frameX="-69" frameY="0"/>
+    <SubTexture name="solo_time_eng0007" x="433" y="248" width="437" height="281" frameWidth="503" frameHeight="324" frameX="-56" frameY="0"/>
+    <SubTexture name="solo_time_eng0008" x="871" y="248" width="455" height="304" frameWidth="503" frameHeight="324" frameX="-38" frameY="-1"/>
+    <SubTexture name="solo_time_eng0009" x="0" y="562" width="493" height="321" frameWidth="503" frameHeight="324" frameX="0" frameY="-1"/>
+    <SubTexture name="solo_time_eng0010" x="494" y="562" width="492" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0011" x="0" y="893" width="495" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0012" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0013" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0014" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0015" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0016" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0017" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0018" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0019" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0020" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0021" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0022" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0023" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0024" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0025" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0026" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0027" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0028" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0029" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0030" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0031" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0032" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0033" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0034" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0035" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0036" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0037" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0038" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0039" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0040" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0041" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0042" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0043" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0044" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0045" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0046" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0047" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0048" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+    <SubTexture name="solo_time_eng0049" x="496" y="893" width="496" height="321" frameWidth="503" frameHeight="324" frameX="-1" frameY="-1"/>
+</TextureAtlas>
